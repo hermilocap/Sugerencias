@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blanco"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <Button
+        android:id="@+id/btnNuevo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/normalfondo"
+        android:gravity="center"
+        android:onClick="agregarNota"
+        android:text="@string/btnNuevo"
+        android:textColor="#C77405"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/svbuscador"
+        android:layout_width="fill_parent"
+        android:layout_height="67dp"
+        android:layout_marginTop="8dp"
+        android:hint="@string/e_buscador"
+        android:padding="10dp"
+        android:textColor="@color/azul"
+        android:textSize="18sp" >
+    </EditText>
+
+    <ListView
+        android:id="@+id/lvsugerencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

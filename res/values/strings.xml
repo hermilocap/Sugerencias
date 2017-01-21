@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sugerencias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titulo_login">IDENTIFICARSE</string>
+    <string name="radio1">Ejercicios</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="radio2">Alimentacion</string>
+    <string name="radio3">Prevencion</string>
+    <string name="btnconfirmar">Confirmar</string>
+    <string name="btncancelaralarma">Cancelar</string>
+    <string name="e_usuario">Usuario</string>
+    <string name="e_password">Password</string>
+    <string name="btnenviar">Iniciar sesion</string>
+    <string name="e_nombresugerencia">Introduzca la sugerencia aqui</string>
+    <string name="l_nombresugerencia">Introduzca su sugerencia</string>
+    <string name="btnguardar">Guardar</string>
+    <string name="t_grupo">Seleccione un grupo</string>
+    <string name="l_horaminuto">Hora(s)       Minuto(s)</string>
+    <string name="btnnuevasugerencia">Nueva Sugerencia</string>
+    <string name="btnNuevo">Nuevo</string>
+    <string name="lhora">0:0</string>
+    <string name="btncancelar">Cancelar</string>
+    <string name="e_buscador">Buscar</string><string name="action_settings">Settings</string>
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+</resources>
